@@ -1,0 +1,10 @@
+
+
+PyQt5
+selenium
+openpyxl
+pandas
+matplotlib
+numpy
+requests
+beautifulsoup4
